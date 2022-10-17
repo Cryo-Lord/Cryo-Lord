@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Cryo-Lord
+- 👀 I’m interested in videogames, sports, cooking, balisong juggling, and always learn something new.
+- 🌱 I’m currently learning python, HTML/CSS and i'm planning to learn Javascript
+- 💞️ I’m looking to collaborate on any kind of project, even little ones.
+- 📫 How to reach me via email: vicente.plaza.v@gmail.com
